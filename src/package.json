@@ -1,0 +1,19 @@
+{
+  "name": "formik-09x-draftjs-example",
+  "version": "1.0.0",
+  "description": "This is an example how to use Formik and Draft.js",
+  "keywords": [
+    "formik",
+    "draft-js",
+    "forms",
+    "react"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yup": "0.21.3",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "formik": "0.9.0",
+    "draft-js": "0.10.1"
+  }
+}
